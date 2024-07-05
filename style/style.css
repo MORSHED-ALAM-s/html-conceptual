@@ -12,9 +12,11 @@ h2{
     height: 300px;
     width: 300px;
     text-align: center;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 20px;
+    padding-top: 30px;
+    margin-left: 10px;
+    
+    
 }
 .btn-parent {
     text-align: center;
@@ -28,5 +30,9 @@ h2{
     padding: 8px;
 }
 video{
-    float: right;
+    margin-top: 50px;
+}
+.gr {
+    display: flex;
+    
 }
